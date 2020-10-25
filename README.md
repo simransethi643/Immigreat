@@ -1,4 +1,4 @@
-<h1> Welcome </h1>
+<h1> <b> Welcome </b> </h1>
 <h3> We all are part of one big society </h3>
 <p> We as a society are not different from each other.</p>
 <p> The people in the society cares, look after each other, and respect individual's as who they are. </p>
