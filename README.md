@@ -1,7 +1,7 @@
 <html>
-  body {
+  
   background-color: dark blue; dark blue = (0, 0, 204)
-}
+  
   <h1><b> Welcome </b></h1>
   <h3> We all are part of one big society </h3>
   <p> We as a society are not different from each other.</p>
