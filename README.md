@@ -7,5 +7,6 @@
 <!-- Google Search, Google, www.google.com/search?q=Https%3A%2F%2FMedia.defense.gov%2F2017%2FFeb%2F02%2F2001693930%2F-1%2F-1%2F0%2F160311-F-EX201-152.JPG. -->
 
 body {
-  background-color: lightgreen;
+  background-color: dark blue;
+  dark blue = (0, 0, 102)
 }
